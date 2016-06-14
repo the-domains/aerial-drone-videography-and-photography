@@ -1,0 +1,28 @@
+name: Aerial Drone Videography and Photography
+favicon: null
+layout_spectrum: 0.2909716386348009
+typography_spectrum: 0.44012590078637004
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.5250015219207853
+  lightness: 0.7610467774793506
+  saturation: 0.5532684451900423
+  rhythmicContrast: 0.6392059931531549
+purpose: []
