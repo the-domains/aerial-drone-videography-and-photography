@@ -1,7 +1,7 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 keywords: []
 description: >-
@@ -9,21 +9,27 @@ description: >-
   companies. We offer more than just the services of an experienced drone pilot.
   From planning to art direction, professional photography to video editing, we
   offer a premium solution all the way to the final production video and photos.
-  We are capable of handling projects of every scale. 
-datePublished: '2016-06-14T16:39:46.244Z'
-dateModified: '2016-06-14T16:31:26.577Z'
-title: WE ARE AN EXPERIENCED AERIAL DRONE VIDEOGRAPHY & PHOTOGRAPHY SERVICE PROVIDER
+  We are capable of handling projects of every scale.
+datePublished: '2016-06-14T17:48:57.356Z'
+dateModified: '2016-06-14T17:48:32.989Z'
+title: >-
+  We are one of Sri Lanka's leading aerial film and photography production
+  companies. We offer more than just the services of an experienced drone pilot.
+  From planning to art direction, professional photography to video editing, we
+  offer a premium solution all the way to the final production video and photos.
+  We are capable of handling projects of every scale.WE ARE AN EXPERIENCED
+  AERIAL DRONE VIDEOGRAPHY & PHOTOGRAPHY SERVICE PROVIDER
 author: []
+sourcePath: >-
+  _posts/2016-06-14-we-are-an-experienced-aerial-drone-videography-and-photography.md
 authors: []
 publisher: null
 starred: false
-sourcePath: >-
-  _posts/2016-06-14-we-are-an-experienced-aerial-drone-videography-and-photography.md
 url: we-are-an-experienced-aerial-drone-videography-and-photography/index.html
 _type: Article
 
 ---
-## WE ARE AN EXPERIENCED AERIAL DRONE VIDEOGRAPHY & PHOTOGRAPHY SERVICE PROVIDER
+## We are one of Sri Lanka's leading aerial film and photography production companies. We offer more than just the services of an experienced drone pilot. From planning to art direction, professional photography to video editing, we offer a premium solution all the way to the final production video and photos. We are capable of handling projects of every scale.WE ARE AN EXPERIENCED AERIAL DRONE VIDEOGRAPHY & PHOTOGRAPHY SERVICE PROVIDER
 
 We are one of Sri Lanka's leading aerial film and photography production companies. We offer more than just the services of an experienced drone pilot. From planning to art direction, professional photography to video editing, we offer a premium solution all the way to the final production video and photos. We are capable of handling projects of every scale.
 
